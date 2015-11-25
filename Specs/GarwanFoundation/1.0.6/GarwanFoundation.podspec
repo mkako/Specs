@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/garwan/garwan-ios-foundation.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/robos23/garwan-ios-foundation.git", :tag => s.version }
 
   s.requires_arc     = true
 
